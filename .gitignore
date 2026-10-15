@@ -1,0 +1,8 @@
+# Visual Studio / IDE
+.vs/
+*.suo
+*.user
+
+# Archivos compilados Java y RMI
+*.class
+
